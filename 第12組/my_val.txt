@@ -1,0 +1,6 @@
+data/my_data/00025.jpg
+data/my_data/00026.jpg
+data/my_data/00027.jpg
+data/my_data/00028.jpg
+data/my_data/00029.jpg
+data/my_data/00030.jpg

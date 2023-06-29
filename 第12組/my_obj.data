@@ -1,0 +1,5 @@
+classes = 5
+train  = data/my_train.txt
+valid  = data/my_val.txt
+names = data/my_obj.names
+backup = /my_drive/yolov4-tiny/
